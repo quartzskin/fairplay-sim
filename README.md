@@ -65,8 +65,7 @@ enough to cross the strike limit. The 25% speed cheat is mostly missed by
 design: it only trips when the cheater's random pace plus 25% exceeds the
 limit.
 
-## Known gaps
-
+## Limits
 - Cheaters use honest client timestamps. A client that lies about its clock
   gets some help from the arrival-time cap but this is not modelled.
 - One seed, one run. The numbers above are not confidence intervals; try other
